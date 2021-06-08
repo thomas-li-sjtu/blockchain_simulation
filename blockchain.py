@@ -3,7 +3,7 @@ import ctypes
 
 
 block = {
-    'hash_code': 00000000,  # 前一个block的hash（hash()的返回值为int）
+    'hash_code': 0,  # 前一个block的hash（hash()的返回值为int）
     'id': 0,  # 该区块提供者的ID
     'height': 0,  # 该块所在的高度
     'block_ahead': None  # 上一个block地址
