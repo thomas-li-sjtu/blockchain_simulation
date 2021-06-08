@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/Reference/BlockChain.cpp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Reference/BlockChain.h" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Reference/Simulation.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attack.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attack.sh" charset="GBK" />
     <file url="file://$PROJECT_DIR$/blockchain.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/simulation.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
