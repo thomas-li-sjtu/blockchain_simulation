@@ -110,7 +110,6 @@ def normal():  # 正常挖矿模拟
     print('round: {}, increase rate: {}'.format(total_round, increase_rate[-1]))
 
 
-
 def adv():  # 含恶意挖矿模拟
     total_round = 1
     attack_num = 5
